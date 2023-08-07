@@ -1,0 +1,15 @@
+.users {
+  width: 100%;
+}
+.user-list {
+  margin-top: 1rem;
+  padding: 1rem;
+  border: 1px solid #fff;
+  list-style: none;
+}
+.user-list li {
+  border: 1px solid #fff;
+  padding: 0.5rem;
+  font-size: 1.1rem;
+  margin-bottom: 0.5rem;
+}

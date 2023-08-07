@@ -1,0 +1,29 @@
+form {
+  border: 1px solid #fff;
+  padding: 1rem;
+  width: 100%;
+}
+form .form-control {
+  margin: 1rem 0;
+}
+form .form-control label {
+  font-size: 1.4rem;
+  margin-right: 0.5rem;
+  display: inline-block;
+  text-transform: capitalize;
+}
+form .form-control input {
+  width: 100%;
+  padding: 0.6rem 0rem;
+}
+form button[type="submit"] {
+  border: none;
+  outline: none;
+  margin: 0.5rem 0rem;
+  padding: 0.5rem 1rem;
+  font-size: 1.1rem;
+  background-color: rgb(0, 116, 44);
+  color: #fff;
+  border-radius: 10px;
+  cursor: pointer;
+}
